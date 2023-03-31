@@ -24,13 +24,12 @@ class AppRoutes {
       user = state.extra! as User;
     } else {
       user = User(
-        id: 2006189,
-        name: "Endang Prayoga Hidayatulloh",
-        username: "e95prayoga",
-        email: "2006189@itg.ac.id",
-        profilePhoto:
-            "https://lh4.googleusercontent.com/3EZASKaq4EXMjaAAJf7UTYLSHwttbCwOOKTHELas6RmlvVw8ZLftPDC1ii5Psr3ZrfE=w2400",
-        phoneNumber: "081286601597",
+        id: 1111,
+        name: "Almunawar",
+        username: "almunawar12",
+        email: "almunawar@gmail.com",
+        profilePhoto: "",
+        phoneNumber: "08977178532",
       );
     }
     return MaterialPage(
